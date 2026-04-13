@@ -218,45 +218,13 @@ Solid technical overview with good structure; needs deeper mathematical insights
 - Sequential processing optimized for reduce latency
 - Ollama runs locally (no network delays for LLM)
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Push to GitHub
-5. Open a pull request
 
 ## 📝 License
 
 MIT License - Feel free to use this project for research and development
 
-## 🎓 What You'll Learn
 
-- Multi-agent systems with LangChain
-- Building Streamlit applications
-- Web scraping with BeautifulSoup
-- LLM orchestration patterns
-- State management in AI pipelines
-- Production-ready Python development
 
-## 🚀 Future Enhancements
 
-- [ ] Add PDF report generation
-- [ ] Support for images in reports
-- [ ] Multi-language support
-- [ ] Database for research history
-- [ ] Team collaboration features
-- [ ] API endpoint for REST integration
-- [ ] Advanced filtering for search results
-- [ ] Custom agent configurations
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-1. Open an GitHub issue
-2. Check existing discussions
-3. Review the documentation
-
----
-
-**Made with ❤️ by the LangChain community**
